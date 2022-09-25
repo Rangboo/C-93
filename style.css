@@ -1,0 +1,11 @@
+.h1
+{
+  font-weight: 400;
+}
+
+.logo_img
+{
+    border-radius:40%;
+    height: 55%;
+    width: 25%;
+}
